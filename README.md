@@ -1,4 +1,4 @@
-![alt text](image.jpg)
+![headerImg](img/images.jfif)
 
 # Alcohol Consumption By Country
 
@@ -17,7 +17,7 @@ Data was was sourced from [world atlas](https://www.worldatlas.com/society/top-1
 
 ## Data Transformation
 
-Data was processed and cleaned using excel before uploading into tableau for visualization.
+Data was processed and cleaned using excel before uploading into [tableau](https://public.tableau.com/app/profile/michael.martins7611/viz/2019week26AlcoholConsumptionByCountry/Dashboard1) for visualization.
 
 ## Data Validation.
 
@@ -25,7 +25,14 @@ Data validation was applied accordingly.
 
 ## Findings
 
-![alt text](image.jpg)
+![barChartInsight](img/Alcohol.png)
 
-![alt text](image.jpg)
+Belarus has the highest liters of pure alcohol consumption per capita.
 
+While United Kingdom and Slovenia has the lowest liters of pure alcohol consumption per capita.
+
+## Project Summary
+
+![barChartInsight](img/Alcohol%20(2).png)
+
+Knowing that alcohol, like other beverages including soft drinks, juices, tea, cocoa, and coffee, plays a significant role in many communities. Depending on how responsibly it is drunk, alcohol can have either negative or positive consequences. More research is needed to definitively determine the impact of a high per capita alcohol consumption on a nation, and these patterns are probably not reason for concern.
